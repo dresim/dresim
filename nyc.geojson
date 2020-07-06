@@ -1,0 +1,5094 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Street",
+        "status": "green",
+        "coord": "-74.007995, 40.710080",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "92,990",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007995, 40.710080],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Street",
+        "status": "red",
+        "coord": "-74.007995, 40.710080",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "92,990",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007995, 40.710080],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Street",
+        "status": "red",
+        "coord": "-74.007995, 40.710080",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "92,990",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007995, 40.710080],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Street",
+        "status": "red",
+        "coord": "-74.007995, 40.710080",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "92,990",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007995, 40.710080],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Street",
+        "status": "red",
+        "coord": "-74.007995, 40.710080",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "92,990",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007995, 40.710080],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Street",
+        "status": "red",
+        "coord": "-74.007995, 40.710080",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "92,990",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007995, 40.710080],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Street",
+        "status": "green",
+        "coord": "-74.007995, 40.710080",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "92,990",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007995, 40.710080],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Street",
+        "status": "green",
+        "coord": "-74.007995, 40.710080",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "92,990",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007995, 40.710080],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Street",
+        "status": "green",
+        "coord": "-74.007995, 40.710080",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "92,990",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007995, 40.710080],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Street",
+        "status": "green",
+        "coord": "-74.007995, 40.710080",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "92,990",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007995, 40.710080],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brooklyn Bridge - City Hall",
+        "status": "green",
+        "coord": "-74.005070, 40.712351",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.005070, 40.712351],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "Brooklyn Bridge - City Hall",
+        "status": "green",
+        "coord": "-74.005070, 40.712351",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.005070, 40.712351],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "Brooklyn Bridge - City Hall",
+        "status": "red",
+        "coord": "-74.005070, 40.712351",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.005070, 40.712351],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "Brooklyn Bridge - City Hall",
+        "status": "red",
+        "coord": "-74.005070, 40.712351",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.005070, 40.712351],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "Brooklyn Bridge - City Hall",
+        "status": "red",
+        "coord": "-74.005070, 40.712351",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.005070, 40.712351],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "Brooklyn Bridge - City Hall",
+        "status": "red",
+        "coord": "-74.005070, 40.712351",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.005070, 40.712351],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "Brooklyn Bridge - City Hall",
+        "status": "red",
+        "coord": "-74.005070, 40.712351",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.005070, 40.712351],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "Brooklyn Bridge - City Hall",
+        "status": "green",
+        "coord": "-74.005070, 40.712351",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.005070, 40.712351],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "Brooklyn Bridge - City Hall",
+        "status": "green",
+        "coord": "-74.005070, 40.712351",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.005070, 40.712351],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "Brooklyn Bridge - City Hall",
+        "status": "green",
+        "coord": "-74.005070, 40.712351",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.005070, 40.712351],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Street",
+        "status": "green",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.000271, 40.718200],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Street",
+        "status": "green",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.000271, 40.718200],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Street",
+        "status": "green",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.000271, 40.718200],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Street",
+        "status": "red",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.000271, 40.718200],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Street",
+        "status": "red",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.000271, 40.718200],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Street",
+        "status": "red",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.000271, 40.718200],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Street",
+        "status": "green",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.000271, 40.718200],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Street",
+        "status": "green",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.000271, 40.718200],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Street",
+        "status": "green",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.000271, 40.718200],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Street",
+        "status": "green",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.000271, 40.718200],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wall Street",
+        "status": "green",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,968",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.009184, 40.706726],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wall Street",
+        "status": "green",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,968",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.009184, 40.706726],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Wall Street",
+        "status": "green",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,968",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.009184, 40.706726],
+        "type": "Point"
+      }
+    },   {
+      "type": "Feature",
+      "properties": {
+        "title": "Wall Street",
+        "status": "red",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,968",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.009184, 40.706726],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Wall Street",
+        "status": "red",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,968",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.009184, 40.706726],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Wall Street",
+        "status": "red",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,968",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.009184, 40.706726],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Wall Street",
+        "status": "red",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,968",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.009184, 40.706726],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Wall Street",
+        "status": "red",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,968",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.009184, 40.706726],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Wall Street",
+        "status": "green",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,968",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.009184, 40.706726],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Wall Street",
+        "status": "green",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,968",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.009184, 40.706726],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Street",
+        "status": "green",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.011033, 40.706481],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Street",
+        "status": "green",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.011033, 40.706481],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Street",
+        "status": "green",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.011033, 40.706481],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Street",
+        "status": "green",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.011033, 40.706481],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Street",
+        "status": "red",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.011033, 40.706481],
+        "type": "Point"
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Street",
+        "status": "red",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.011033, 40.706481],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Street",
+        "status": "red",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.011033, 40.706481],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Street",
+        "status": "red",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.011033, 40.706481],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Street",
+        "status": "red",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.011033, 40.706481],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Street",
+        "status": "green",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.011033, 40.706481],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers Street",
+        "status": "green",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007986, 40.715090],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers Street",
+        "status": "green",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007986, 40.715090],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers Street",
+        "status": "green",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007986, 40.715090],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers Street",
+        "status": "red",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007986, 40.715090],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers Street",
+        "status": "red",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007986, 40.715090],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers Street",
+        "status": "red",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007986, 40.715090],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers Street",
+        "status": "red",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007986, 40.715090],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers Street",
+        "status": "red",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007986, 40.715090],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers Street",
+        "status": "green",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007986, 40.715090],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers Street",
+        "status": "green",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 9,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.007986, 40.715090],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cortlandt Street",
+        "status": "green",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 0,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.010956, 40.710781],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Cortlandt Street",
+        "status": "green",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 0,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.010956, 40.710781],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Cortlandt Street",
+        "status": "red",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 0,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.010956, 40.710781],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Cortlandt Street",
+        "status": "red",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 0,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.010956, 40.710781],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Cortlandt Street",
+        "status": "red",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 0,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.010956, 40.710781],
+        "type": "Point"
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "title": "Cortlandt Street",
+        "status": "red",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 0,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.010956, 40.710781],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "title": "Cortlandt Street",
+        "status": "red",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 0,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.010956, 40.710781],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Cortlandt Street",
+        "status": "green",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 0,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.010956, 40.710781],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Cortlandt Street",
+        "status": "green",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 0,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.010956, 40.710781],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Cortlandt Street",
+        "status": "green",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 0,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.010956, 40.710781],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Street",
+        "status": "green",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.003999, 40.725675],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Street",
+        "status": "green",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.003999, 40.725675],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Street",
+        "status": "green",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.003999, 40.725675],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Street",
+        "status": "green",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.003999, 40.725675],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Street",
+        "status": "red",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.003999, 40.725675],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Street",
+        "status": "red",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.003999, 40.725675],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Street",
+        "status": "green",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.003999, 40.725675],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Street",
+        "status": "green",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.003999, 40.725675],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Street",
+        "status": "green",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.003999, 40.725675],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Street",
+        "status": "green",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.003999, 40.725675],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Street",
+        "status": "green",
+        "coord": "-73.993784, 40.718164",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993784, 40.718164],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Street",
+        "status": "green",
+        "coord": "-73.993784, 40.718164",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993784, 40.718164],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Street",
+        "status": "green",
+        "coord": "-73.993784, 40.718164",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993784, 40.718164],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Street",
+        "status": "green",
+        "coord": "-73.993784, 40.718164",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993784, 40.718164],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Street",
+        "status": "red",
+        "coord": "-73.993784, 40.718164",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993784, 40.718164],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Street",
+        "status": "red",
+        "coord": "-73.993784, 40.718164",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993784, 40.718164],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Street",
+        "status": "red",
+        "coord": "-73.993784, 40.718164",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993784, 40.718164],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Street",
+        "status": "red",
+        "coord": "-73.993784, 40.718164",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993784, 40.718164],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Street",
+        "status": "green",
+        "coord": "-73.993784, 40.718164",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993784, 40.718164],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Street",
+        "status": "green",
+        "coord": "-73.993784, 40.718164",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993784, 40.718164],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowery",
+        "status": "green",
+        "coord": "-73.993718, 40.720218",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993718, 40.720218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowery",
+        "status": "green",
+        "coord": "-73.993718, 40.720218",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993718, 40.720218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowery",
+        "status": "green",
+        "coord": "-73.993718, 40.720218",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993718, 40.720218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowery",
+        "status": "green",
+        "coord": "-73.993718, 40.720218",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993718, 40.720218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowery",
+        "status": "red",
+        "coord": "-73.993718, 40.720218",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993718, 40.720218],
+        "type": "Point"
+      }
+    },   {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowery",
+        "status": "red",
+        "coord": "-73.993718, 40.720218",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993718, 40.720218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowery",
+        "status": "red",
+        "coord": "-73.993718, 40.720218",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993718, 40.720218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowery",
+        "status": "red",
+        "coord": "-73.993718, 40.720218",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993718, 40.720218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowery",
+        "status": "red",
+        "coord": "-73.993718, 40.720218",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993718, 40.720218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowery",
+        "status": "green",
+        "coord": "-73.993718, 40.720218",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993718, 40.720218],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowling Green",
+        "status": "green",
+        "coord": "-74.014239, 40.704566",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "28,646",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.014239, 40.704566],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowling Green",
+        "status": "red",
+        "coord": "-74.014239, 40.704566",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "28,646",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.014239, 40.704566],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowling Green",
+        "status": "red",
+        "coord": "-74.014239, 40.704566",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "28,646",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.014239, 40.704566],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowling Green",
+        "status": "red",
+        "coord": "-74.014239, 40.704566",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "28,646",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.014239, 40.704566],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowling Green",
+        "status": "red",
+        "coord": "-74.014239, 40.704566",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "28,646",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.014239, 40.704566],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowling Green",
+        "status": "red",
+        "coord": "-74.014239, 40.704566",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "28,646",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.014239, 40.704566],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowling Green",
+        "status": "green",
+        "coord": "-74.014239, 40.704566",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "28,646",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.014239, 40.704566],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowling Green",
+        "status": "green",
+        "coord": "-74.014239, 40.704566",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "28,646",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.014239, 40.704566],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowling Green",
+        "status": "green",
+        "coord": "-74.014239, 40.704566",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "28,646",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.014239, 40.704566],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowling Green",
+        "status": "green",
+        "coord": "-74.014239, 40.704566",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "2/3/4/5/A/C/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Slow Wine Tour 2020</a>",
+        "ridership": "28,646",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Verizon",
+        "ip": "128.0.0.0",
+        "freq":"5GHz",
+        "speed": "600Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.014239, 40.704566],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Ferry - Whitehall Street",
+        "status": "green",
+        "coord": "-74.013101, 40.703598",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.013101, 40.703598],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "South Ferry - Whitehall Street",
+        "status": "green",
+        "coord": "-74.013101, 40.703598",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.013101, 40.703598],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "South Ferry - Whitehall Street",
+        "status": "red",
+        "coord": "-74.013101, 40.703598",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.013101, 40.703598],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "South Ferry - Whitehall Street",
+        "status": "red",
+        "coord": "-74.013101, 40.703598",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.013101, 40.703598],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "South Ferry - Whitehall Street",
+        "status": "red",
+        "coord": "-74.013101, 40.703598",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.013101, 40.703598],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "South Ferry - Whitehall Street",
+        "status": "red",
+        "coord": "-74.013101, 40.703598",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.013101, 40.703598],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "South Ferry - Whitehall Street",
+        "status": "red",
+        "coord": "-74.013101, 40.703598",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.013101, 40.703598],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "South Ferry - Whitehall Street",
+        "status": "green",
+        "coord": "-74.013101, 40.703598",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.013101, 40.703598],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "South Ferry - Whitehall Street",
+        "status": "green",
+        "coord": "-74.013101, 40.703598",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.013101, 40.703598],
+        "type": "Point"
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "title": "South Ferry - Whitehall Street",
+        "status": "green",
+        "coord": "-74.013101, 40.703598",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "4/5/6/J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">City Hall Townhall </a>",
+        "ridership": "30,932",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"AT-T",
+        "ip": "128.0.0.1",
+        "freq":"2.4GHz",
+        "speed": "300Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-74.013101, 40.703598],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Street",
+        "status": "green",
+        "coord": "-74.000271, 40.718200",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "7,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993014, 40.697475],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Street",
+        "status": "green",
+        "coord": "-73.993014, 40.697475",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993014, 40.697475],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Street",
+        "status": "green",
+        "coord": "-73.993014, 40.697475",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993014, 40.697475],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Street",
+        "status": "red",
+        "coord": "-73.993014, 40.697475",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993014, 40.697475],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Street",
+        "status": "red",
+        "coord": "-73.993014, 40.697475",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993014, 40.697475],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Street",
+        "status": "red",
+        "coord": "-73.993014, 40.697475",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993014, 40.697475],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Street",
+        "status": "green",
+        "coord": "-73.993014, 40.697475",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993014, 40.697475],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Street",
+        "status": "green",
+        "coord": "-73.993014, 40.697475",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993014, 40.697475],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Street",
+        "status": "green",
+        "coord": "-73.993014, 40.697475",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993014, 40.697475],
+        "type": "Point"
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Street",
+        "status": "green",
+        "coord": "-73.993014, 40.697475",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/N/Q/R/W/Z/6",
+        "event": "<a href=\"https://localwineevents.com/\">Little Italy Festival</a>",
+        "ridership": "47,034",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 0.5,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.993014, 40.697475],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "High Street (1)",
+        "status": "green",
+        "coord": "-73.988037, 40.699050",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "10,281",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.988037, 40.699050],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "High Street (1)",
+        "status": "green",
+        "coord": "-73.988037, 40.699050",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "10,281",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.988037, 40.699050],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street (1)",
+        "status": "green",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "10,281",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.988037, 40.699050],
+        "type": "Point"
+      }
+    },   {
+      "type": "Feature",
+      "properties": {
+        "title": "High Street (1)",
+        "status": "red",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "10,281",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.988037, 40.699050],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street (1)",
+        "status": "red",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "10,281",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.988037, 40.699050],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street (1)",
+        "status": "red",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "10,281",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.988037, 40.699050],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street (1)",
+        "status": "red",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "10,281",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.988037, 40.699050],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street (1)",
+        "status": "red",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "10,281",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.988037, 40.699050],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street (1)",
+        "status": "green",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "10,281",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.988037, 40.699050],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street (1)",
+        "status": "green",
+        "coord": "-74.009184, 40.706726",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "10,281",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.988037, 40.699050],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "High Street",
+        "status": "green",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991369, 40.699375],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street",
+        "status": "green",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991369, 40.699375],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street",
+        "status": "green",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991369, 40.699375],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street",
+        "status": "green",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991369, 40.699375],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street",
+        "status": "red",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991369, 40.699375],
+        "type": "Point"
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "title": "High Street",
+        "status": "red",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991369, 40.699375],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street",
+        "status": "red",
+        "coord": "-74.011033, 40.706481",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991369, 40.699375],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street",
+        "status": "red",
+        "coord": "-73.991369, 40.699375",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991369, 40.699375],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street",
+        "status": "red",
+        "coord": "-73.991369, 40.699375",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991369, 40.699375],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "High Street", 
+        "status": "green",
+        "coord": "-73.991369, 40.699375",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "7,050",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991369, 40.699375],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Court Street - Borough Hall",
+        "status": "green",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991795, 40.694081],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Court Street - Borough Hall",
+        "status": "green",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991795, 40.694081],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Court Street - Borough Hall",
+        "status": "green",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991795, 40.694081],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Court Street - Borough Hall",
+        "status": "red",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991795, 40.694081],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Court Street - Borough Hall",
+        "status": "red",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991795, 40.694081],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Court Street - Borough Hall",
+        "status": "red",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "red",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991795, 40.694081],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Court Street - Borough Hall",
+        "status": "red",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991795, 40.694081],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Court Street - Borough Hall",
+        "status": "red",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991795, 40.694081],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Court Street - Borough Hall",
+        "status": "green",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991795, 40.694081],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Court Street - Borough Hall",
+        "status": "green",
+        "coord": "-74.007986, 40.715090",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "A/C/E/2/3",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "93,699",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.991795, 40.694081],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jay Street - MetroTech",
+        "status": "green",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 4,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.986272, 40.692196],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Jay Street - MetroTech",
+        "status": "green",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 4,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.986272, 40.692196],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Jay Street - MetroTech",
+        "status": "red",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 4,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.986272, 40.692196],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Jay Street - MetroTech",
+        "status": "red",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 4,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.986272, 40.692196],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Jay Street - MetroTech",
+        "status": "red",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 4,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.986272, 40.692196],
+        "type": "Point"
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "title": "Jay Street - MetroTech",
+        "status": "red",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 4,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.986272, 40.692196],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "title": "Jay Street - MetroTech",
+        "status": "red",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 4,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.986272, 40.692196],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Jay Street - MetroTech",
+        "status": "green",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 4,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.986272, 40.692196],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Jay Street - MetroTech",
+        "status": "green",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 4,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.986272, 40.692196],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Jay Street - MetroTech",
+        "status": "green",
+        "coord": "-74.010956, 40.710781",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "R/W",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "N/A",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 4,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.986272, 40.692196],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hoyt Street",
+        "status": "green",
+        "coord": "-74.003999, 40.725675",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.984988, 40.690516],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Hoyt Street",
+        "status": "green",
+        "coord": "-73.984988, 40.690516",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.984988, 40.690516],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Hoyt Street",
+        "status": "green",
+        "coord": "-73.984988, 40.690516",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.984988, 40.690516],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Hoyt Street",
+        "status": "green",
+        "coord": "-73.984988, 40.690516",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.984988, 40.690516],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Hoyt Street",
+        "status": "red",
+        "coord": "-73.984988, 40.690516",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.984988, 40.690516],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "title": "Hoyt Street",
+        "status": "red",
+        "coord": "-73.984988, 40.690516",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.984988, 40.690516],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Hoyt Street",
+        "status": "green",
+        "coord": "-73.984988, 40.690516",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.984988, 40.690516],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Hoyt Street",
+        "status": "green",
+        "coord": "-73.984988, 40.690516",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.984988, 40.690516],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Hoyt Street",
+        "status": "green",
+        "coord": "-73.984988, 40.690516",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.984988, 40.690516],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Hoyt Street",
+        "status": "green",
+        "coord": "-73.984988, 40.690516",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "C/E",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "13,054",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 1,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.984988, 40.690516],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Borough Hall",
+        "status": "green",
+        "coord": "-73.989791, 40.693034",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.989791, 40.693034],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Borough Hall",
+        "status": "green",
+        "coord": "-73.989791, 40.693034",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.989791, 40.693034],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Borough Hall",
+        "status": "green",
+        "coord": "-73.989791, 40.693034",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.989791, 40.693034],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Borough Hall",
+        "status": "green",
+        "coord": "-73.989791, 40.693034",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.989791, 40.693034],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Borough Hall",
+        "status": "red",
+        "coord": "-73.989791, 40.693034",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.989791, 40.693034],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Borough Hall",
+        "status": "red",
+        "coord": "-73.989791, 40.693034",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.989791, 40.693034],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Borough Hall",
+        "status": "red",
+        "coord": "-73.989791, 40.693034",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.989791, 40.693034],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Borough Hall",
+        "status": "red",
+        "coord": "-73.989791, 40.693034",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.989791, 40.693034],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Borough Hall",
+        "status": "green",
+        "coord": "-73.989791, 40.693034",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.989791, 40.693034],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Borough Hall",
+        "status": "green",
+        "coord": "-73.989791, 40.693034",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "B/D",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "23,422",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 3,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.989791, 40.693034],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DeKalb Avenue",
+        "status": "green",
+        "coord": "-73.981755, 40.690606",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      }, 
+      "geometry": {
+        "coordinates": [-73.981755, 40.690606],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DeKalb Avenue",
+        "status": "green",
+        "coord": "-73.981755, 40.690606",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.981755, 40.690606],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DeKalb Avenue",
+        "status": "green",
+        "coord": "-73.981755, 40.690606",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.981755, 40.690606],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DeKalb Avenue",
+        "status": "green",
+        "coord": "-73.981755, 40.690606",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.981755, 40.690606],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DeKalb Avenue",
+        "status": "red",
+        "coord": "-73.981755, 40.690606",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "pre",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.981755, 40.690606],
+        "type": "Point"
+      }
+    },   {
+      "type": "Feature",
+      "properties": {
+        "title": "DeKalb Avenue",
+        "status": "red",
+        "coord": "-73.981755, 40.690606",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 1,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.981755, 40.690606],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DeKalb Avenue",
+        "status": "red",
+        "coord": "-73.981755, 40.690606",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 2,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.981755, 40.690606],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DeKalb Avenue",
+        "status": "red",
+        "coord": "-73.981755, 40.690606",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 3,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.981755, 40.690606],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DeKalb Avenue",
+        "status": "red",
+        "coord": "-73.981755, 40.690606",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 4,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.981755, 40.690606],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DeKalb Avenue",
+        "status": "green",
+        "coord": "-73.981755, 40.690606",
+        "url": "http://web.mta.info/nyct/service/",
+        "line": "J/Z",
+        "event": "<a href=\"https://localwineevents.com/\">Test event</a>",
+        "ridership": "3,738",
+        "wifi": "green",
+        "wifiname":"NYC Metro Wireless",
+        "provider":"Spectrum",
+        "ip": "128.0.0.0",
+        "freq":"2.4GHz",
+        "speed": "200Mbps",
+        "stage": 5,
+        "phase": "post",
+        "reward": 2,
+        "action": 0
+      },
+      "geometry": {
+        "coordinates": [-73.981755, 40.690606],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

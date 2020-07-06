@@ -1,0 +1,85 @@
+/*調整軸線*/
+.axis path,
+.axis line {
+  fill: none; /*填滿*/
+  stroke: none; /*軸線顏色*/
+  shape-rendering: crispEdges;
+}
+
+/*座標字型*/
+.axis text {
+  font-family: "cwTeXHei", Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+/*住院原因字型*/
+.cause {
+  font-family: "cwTeXHei", Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+/*住院期間方塊*/
+.inHospital rect {
+  fill: white;
+  opacity: 0.2;
+}
+
+/*背景*/
+#background {
+  fill: none;
+  opacity: 0.1;
+}
+
+/*下限格式*/
+.lowerLine0 {
+  stroke: green;
+}
+
+/*上限格式*/
+.upperLine0 {
+  stroke: green;
+}
+
+.lowerLine1 {
+  stroke: orange;
+}
+
+/*上限格式*/
+.upperLine1 {
+  stroke: orange;
+}
+
+/*線段格式*/
+.dataLine0 {
+  /**/
+}
+
+.dataLine1 {
+  /**/
+}
+
+/*點格式*/
+.dataPoint0 {
+  /**/
+}
+
+.dataPoint1 {
+  /**/
+}
+
+/*resposive parameters*/
+.svg-container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 50%; /* aspect ratio */
+  vertical-align: top;
+  overflow: hidden;
+}
+
+.svg-content-responsive {
+  display: inline-block;
+  position: absolute;
+  top: 0px;
+  left: 0;
+}

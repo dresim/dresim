@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>line plot</title>
+    <!--you need to include the code below to <head>-->
+    <link rel="stylesheet" type="text/css" href="lineChart.css" />
+    <link
+      href="http://fonts.googleapis.com/earlyaccess/cwtexhei.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="lineChart.js"></script>
+    <!--**********************************-->
+  </head>
+  <body>
+    <div id="lineChart"></div>
+
+    <script>
+      //simulation data
+      var data_sys = [
+        { x: "2014-03-01T12:00:00", y: 110 },
+        { x: "2014-03-02T10:00:00", y: 130 },
+        { x: "2014-03-02T13:00:00", y: 142 },
+        { x: "2014-03-03T15:00:00", y: 121 },
+        { x: "2014-03-03T21:00:00", y: 133 },
+        { x: "2014-03-04T16:00:00", y: 120 },
+        { x: "2014-03-05T16:20:00", y: 140 },
+        { x: "2014-03-06T18:00:00", y: 120 }
+      ];
+      var data_dias = [
+        { x: "2014-03-01T12:00:00", y: 73 },
+        { x: "2014-03-02T10:00:00", y: 95 },
+        { x: "2014-03-02T13:00:00", y: 80 },
+        { x: "2014-03-03T15:00:00", y: 86 },
+        { x: "2014-03-03T21:00:00", y: 70 },
+        { x: "2014-03-04T16:00:00", y: 82 },
+        { x: "2014-03-05T16:20:00", y: 97 },
+        { x: "2014-03-06T18:00:00", y: 80 }
+      ];
+
+      var data_sys_update = [
+        { x: "2014-04-01T12:00:00", y: 124 },
+        { x: "2014-04-02T10:00:00", y: 133 },
+        { x: "2014-04-02T13:00:00", y: 120 },
+        { x: "2014-04-02T19:00:00", y: 121 },
+        { x: "2014-04-03T21:00:00", y: 133 },
+        { x: "2014-04-04T16:00:00", y: 154 },
+        { x: "2014-04-05T11:20:00", y: 120 },
+        { x: "2014-04-05T17:00:00", y: 110 },
+        { x: "2014-04-06T21:00:00", y: 120 }
+      ];
+      var data_dias_update = [
+        { x: "2014-04-01T12:00:00", y: 103 },
+        { x: "2014-04-02T10:00:00", y: 75 },
+        { x: "2014-04-02T13:00:00", y: 82 },
+        { x: "2014-04-02T19:00:00", y: 86 },
+        { x: "2014-04-03T21:00:00", y: 63 },
+        { x: "2014-04-04T16:00:00", y: 82 },
+        { x: "2014-04-05T11:20:00", y: 92 },
+        { x: "2014-04-05T17:00:00", y: 77 },
+        { x: "2014-04-06T21:00:00", y: 90 }
+      ];
+
+      //initialization parameters
+      var para = {
+        name: ["valueA", "valueB"],
+        width: 600,
+        height: 300,
+        padding: 35,
+        duration: 1000,
+        timeTickNum: 6,
+        yTickNum: 4,
+        defaultBound: { min: 50, max: 150 }
+      };
+
+      var morePara = {
+        timeAxisFormat: "dateDay", //month, date, dateDay , dateHour
+        normalRange: [
+          { upper: 140, lower: -1 },
+          { upper: 90, lower: -1 }
+        ],
+        timeScale: { start: "2014-03-01T02:00:00", end: "2014-03-07T18:00:00" },
+        inHospital: {
+          "1": {
+            start: "2014-03-02T08:00:00",
+            end: "2014-03-03T14:00:00",
+            cause: "Pre-Event"
+          }
+        },
+        dataPointFill: ["green", "orange"],
+        dataPointFillAlert: ["white", "white"],
+        dataPointOpacity: [1.0, 1.0],
+        dataPointStrokeAlert: ["red", "red"],
+        dataPointR: ["3px", "3px"],
+        dataLineStroke: ["green", "orange"],
+        dataLineStrokeWidth: ["2px", "2px"],
+        dataLineOpacity: [0.8, 0.8]
+      };
+
+      var morePara_update = {
+        timeAxisFormat: "date", //month, date, dateDay , dateHour
+        normalRange: [
+          { upper: 140, lower: -1 },
+          { upper: 90, lower: -1 }
+        ],
+        timeScale: { start: "2014-04-01T02:00:00", end: "2014-04-07T18:00:00" },
+        inHospital: {
+          "1": {
+            start: "2014-04-02T8:00:00",
+            end: "2014-04-03T14:00:00",
+            cause: "Post-event"
+          }
+        },
+        dataPointFill: ["green", "orange"],
+        dataPointFillAlert: ["white", "white"],
+        dataPointOpacity: [1.0, 1.0],
+        dataPointStrokeAlert: ["red", "red"],
+        dataPointR: ["3px", "3px"],
+        dataLineStroke: ["green", "orange"],
+        dataLineStrokeWidth: ["2px", "2px"],
+        dataLineOpacity: [0.8, 0.8]
+      };
+
+      var svg1 = new linePlot("lineChart", para);
+
+      svg1.plot([data_sys, data_dias], morePara);
+
+      d3.select("#lineChart").on("click", function() {
+        var temp_sys = data_sys;
+        var temp_dias = data_dias;
+        var temp_morePara = morePara;
+        data_sys = data_sys_update;
+        data_sys_update = temp_sys;
+        data_dias = data_dias_update;
+        data_dias_update = temp_dias;
+        morePara = morePara_update;
+        morePara_update = temp_morePara;
+
+        svg1.update([data_sys, data_dias], morePara);
+      });
+    </script>
+  </body>
+</html>

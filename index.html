@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <meta
+      name="description"
+      content="Resilient Infrustructure Simulation of Cascade and Optimization"
+    />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <title>DRESIM</title>
+
+    <script type="application/ld+json"></script>
+
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.js"></script>
+    <link
+      href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://kit.fontawesome.com/62e93ba4bf.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <link
+      href="http://fonts.googleapis.com/css?family=Lato:100,200,300,400,700,300italic,400italic,700italic"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link rel="stylesheet" type="text/css" href="css/dresim.css" />
+    <link
+      href="css/font-awesome-4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+
+    <!--for the header-->
+    <link rel="stylesheet" type="text/css" href="css/header-style.css" />
+
+    <!--project style sheet-->
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+      integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/d3Style.css" />
+  </head>
+
+  <body class="body">
+    <div id="header-pinned" class="no-touch">
+      <a
+        target="_blank"
+        href="#home"
+        title="Home"
+        rel="home"
+        class="site-logo"
+      ></a>
+      <div class="title">
+        <a href="index.html" class="title-linkback">DRESIM</a>
+      </div>
+    </div>
+    <div class="wrapper">
+      <section class="clearfix full-col">
+        <div id="section-container">
+          <div id="map-container">
+            <div id="cities-wrap">
+              <div id="cities"></div>
+            </div>
+            <div class="legend-right">
+              <nav id="menu-container">
+                <ul id="menu"></ul>
+              </nav>
+            </div>
+            <div id="map">
+              <div class="map-gradient"></div>
+            </div>
+            <div id="panel-left">
+              <div class="session">
+                <p>Status</p>
+                <div class="legend-row colors"></div>
+                <div class="legend-row labels">
+                  <div class="label">100%</div>
+                  <div class="label">80%</div>
+                  <div class="label">60%</div>
+                  <div class="label">40%</div>
+                  <div class="label">20%</div>
+                  <div class="label">0%</div>
+                </div>
+              </div>
+              <div class="session" id="sliderbar">
+                <p>Stage: <label id="active-stage">1</label></p>
+                <input
+                  id="slider"
+                  class="legend-row"
+                  type="range"
+                  min="1"
+                  max="5"
+                  step="1"
+                  value="1"
+                />
+              </div>
+              <div class="session">
+                <p>Phase</p>
+                <div class="legend-row" id="phase-filters">
+                  <input
+                    id="pre"
+                    type="radio"
+                    name="toggle"
+                    value="pre"
+                    checked="checked"
+                  />
+                  <label for="pre">Pre-Event</label>
+                  <input id="post" type="radio" name="toggle" value="post" />
+                  <label for="post">Post-Event</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="chart-container">
+            <!--div class="graphic-container"></div-->
+            <div id="scatter">
+              <!-- We append our chart here. -->
+            </div>
+            <div id="scatter2">
+              <!-- We append our chart here. -->
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <footer class="wrapper">
+      <section class="clearfix">
+        <!--div class="content" style="padding-left:2%; padding-right:2%"-->
+        <div class="container">
+          <h4>Project Description</h4>
+          <div class="row">
+            <div class="col">
+              <h3>Offline Construction and Pre-Event Planning</h3>
+              <ul>
+                <li>Heterogeneous Network Modeling</li>
+                <li>Semi-automated Data Building</li>
+                <li>Vulnerability Discovery and Failure Prediction</li>
+                <li>High Adaptivity</li>
+              </ul>
+              <h3>Research</h3>
+              <p>
+                <a
+                  href="https://engineering.nyu.edu/faculty/quanyan-zhu"
+                  target="new"
+                  >Quanyan Zhu</a
+                >
+                and
+                <a
+                  href="https://engineering.nyu.edu/student/linan-huang"
+                  target="new"
+                  >Linan Huang</a
+                >
+              </p>
+              <h3>Design and Visualization</h3>
+              <p>
+                <a href="https://github.com/leelightman" target="new"
+                  >Lynn Li</a
+                >
+              </p>
+              <p class="credits">
+                Last updated Feburary, 2020.
+                <a href="https://engineering.nyu.edu/" target="_blank"
+                  >New York University Tandon School of Engineering</a
+                >.
+              </p>
+            </div>
+            <div class="col">
+              <h3>Real-Time Disaster Response</h3>
+              <ul>
+                <li>Holistic Response and Long-term Planning</li>
+                <li>Assessment of Risk, reward, and Action Expense</li>
+                <li>Alerts Ranking and Scoring</li>
+                <li>Decision Support Interactive and Visualization</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+    </footer>
+    <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script src="js/header.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+    <script type="text/javascript" src="assets/js/app2.js"></script>
+    <script>
+      mapboxgl.accessToken =
+        "pk.eyJ1IjoibGVlbGlnaHRtYW4iLCJhIjoiY2s2OGdvZDl6MDR0cDNsbXhpcTB0MGpldCJ9.byI-jlLmMOP4bcMjcEVKGQ";
+
+      var mapBase = new mapboxgl.Map({
+        container: "map",
+        style:
+          "mapbox://styles/leelightman/ck68gqkbg0xfd1iog1lw3z9zw?optimize=true",
+        center: [-73.976, 40.719],
+        //pitchWithRotate: false,
+        //renderWorldCopies: false,
+        minZoom: 2,
+        maxZoom: 16,
+        zoom: 12,
+      });
+      mapBase.addControl(new mapboxgl.NavigationControl());
+      //mapBase.scrollZoom.disable();
+      mapBase.dragRotate.disable();
+      //mapBase.touchZoomRotate.disableRotation();
+
+      mapBase.on("load", function () {
+        var filterStage = ["==", ["number", ["get", "stage"]], 1];
+        var filterPhase = ["==", ["string", ["get", "phase"]], "pre"];
+        //var filterPhase = ["!=", ["string", ["get", "phase"]], "placeholder"];
+
+        mapBase.addSource("metro-nyc", {
+          type: "geojson",
+          data: "nyc_metro.geojson", // replace this with the url of your own geojson
+          generateId: true,
+        });
+        mapBase.addLayer({
+          id: "metro-nyc",
+          type: "circle",
+          source: "metro-nyc",
+          layout: {
+            visibility: "visible",
+          },
+          paint: {
+            "circle-radius": [
+              "interpolate",
+              ["linear"],
+              ["number", ["get", "reward"]],
+              0,
+              5,
+              10,
+              15,
+            ],
+            "circle-color": [
+              "match",
+              ["get", "status"],
+              "green",
+              "#008000",
+              "red",
+              "#ff0000",
+              "#ccc",
+            ],
+            "circle-stroke-width": 0,
+            "circle-opacity": 0.5,
+          },
+          filter: ["all", filterStage, filterPhase],
+        });
+        mapBase.addSource("power-nyc", {
+          type: "geojson",
+          data: "nyc_power.geojson", // replace this with the url of your own geojson
+          generateId: true,
+        });
+        mapBase.addLayer({
+          id: "power-nyc",
+          type: "circle",
+          source: "power-nyc",
+          layout: {
+            visibility: "visible",
+          },
+          paint: {
+            "circle-radius": [
+              "interpolate",
+              ["linear"],
+              ["number", ["get", "reward"]],
+              0,
+              5,
+              10,
+              15,
+            ],
+            "circle-color": [
+              "match",
+              ["get", "status"],
+              "green",
+              "#1696d2",
+              "red",
+              "#FF9966",
+              "#ccc",
+            ],
+            "circle-stroke-width": 0,
+            "circle-opacity": 0.5,
+          },
+          filter: ["all", filterStage, filterPhase],
+        });
+        /* -------- Toggle layers ----------*/
+        var toggleableLayerIds = ["metro-nyc", "power-nyc"];
+
+        for (var i = 0; i < toggleableLayerIds.length; i++) {
+          var id = toggleableLayerIds[i];
+          var link = document.createElement("a");
+          link.href = "#";
+          link.className = "active";
+          link.textContent = id;
+
+          link.onclick = function (e) {
+            var clickedLayer = this.textContent;
+            console.log(clickedLayer);
+            e.preventDefault();
+            e.stopPropagation();
+
+            var visibility = mapBase.getLayoutProperty(
+              clickedLayer,
+              "visibility"
+            );
+
+            if (visibility === "visible") {
+              mapBase.setLayoutProperty(clickedLayer, "visibility", "none");
+              this.className = "";
+            } else {
+              this.className = "active";
+              mapBase.setLayoutProperty(clickedLayer, "visibility", "visible");
+            }
+          };
+
+          var layers = document.getElementById("menu");
+          var list = document.createElement("li");
+          list.appendChild(link);
+          layers.appendChild(list);
+        }
+
+        /* -------- Stage filter -----------*/
+        document
+          .getElementById("slider")
+          .addEventListener("input", function (e) {
+            var stage = parseInt(e.target.value);
+            // update the map
+            filterStage = ["==", ["number", ["get", "stage"]], stage];
+
+            //console.log(filterStage);
+            mapBase.setFilter("power-nyc", ["all", filterStage, filterPhase]);
+            mapBase.setFilter("metro-nyc", ["all", filterStage, filterPhase]);
+            document.getElementById("active-stage").innerText = stage;
+          });
+        /* -------- Phase filter -----------*/
+        document
+          .getElementById("phase-filters")
+          .addEventListener("change", function (e) {
+            var phase = e.target.value;
+            // update the map filter
+            if (phase === "pre") {
+              filterPhase = ["==", ["string", ["get", "phase"]], "pre"];
+            } else if (phase === "post") {
+              //filterPhase = ["match", ["get", "phase"], "post", true, false];
+              filterPhase = ["==", ["string", ["get", "phase"]], "post"];
+            } else {
+              console.log("error");
+            }
+            mapBase.setFilter("power-nyc", ["all", filterStage, filterPhase]);
+            mapBase.setFilter("metro-nyc", ["all", filterStage, filterPhase]);
+          });
+      });
+
+      mapBase.on("click", "metro-nyc", (e) => {
+        mapBase.getCanvas().style.cursor = "pointer";
+        console.log(e.features[0].properties);
+        feature = e.features[0].properties;
+        if (!e.features.length) {
+          return;
+        }
+
+        var status = feature.status;
+        var wifistatus = feature.wifi;
+        var reward = feature.reward;
+        var popup = new mapboxgl.Popup({ offset: [0, -15] })
+          .setLngLat(e.features[0].geometry.coordinates)
+          .setHTML(
+            '<ul class="nav nav-tabs">' +
+              '<li class="active"><a data-toggle="tab" href="#home">Info</a></li>' +
+              '<li><a data-toggle="tab" href="#menu1">Human Factor</a></li>' +
+              '<li><a data-toggle="tab" href="#menu2">Cyber</a></li>' +
+              "</ul>" +
+              '<div class="tab-content">' +
+              '<div id="home" class="tab-pane fade in active">' +
+              "<p>" +
+              feature.title +
+              "</p>" +
+              "<p>" +
+              feature.line +
+              "</p>" +
+              "<p>Status: " +
+              '<i class="fas ' +
+              status +
+              ' fa-circle"></i>' +
+              "<button id='switch' type='button' class='btn btn-secondary'><i class='fas fa-toggle-on'></i></button>" +
+              "</p>" +
+              "<p>Reward: " +
+              reward +
+              "<button type='button' id='up' class='btn btn-info'><i class='fas fa-sort-up'></i></button>" +
+              "<button type='button' id='down' class='btn btn-warning'><i class='fas fa-sort-down'></i></button>" +
+              "</p>" +
+              "<p>Action: " +
+              feature.action +
+              "<button id='popbutton' type='button' class='btn btn-primary'><i class='fas fa-calendar-alt'></i></button>" +
+              "<button id='popbutton' type='button' class='btn btn-success'><i class='fas fa-tools'></i></button>" +
+              "<button id='popbutton' type='button' class='btn btn-danger'><i class='fas fa-hand-paper'></i></button>" +
+              "</p>" +
+              "<p>Location: " +
+              e.features[0].geometry.coordinates[0].toFixed(3) +
+              "° N - " +
+              e.features[0].geometry.coordinates[1].toFixed(3) +
+              "° W " +
+              "</p>" +
+              "<p>Event: " +
+              feature.event +
+              "</p>" +
+              "<p>Daily Avg. Ridership: " +
+              feature.ridership +
+              "</p>" +
+              "<p><a href=" +
+              feature.url +
+              ">Website</a></p>" +
+              "</div>" +
+              '<div id="menu1" class="tab-pane fade">' +
+              '<table class="table" >' +
+              "<tr>" +
+              "<td></td>" +
+              "<td>Low</td>" +
+              "<td>Med</td>" +
+              "<td>High</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Action*</td>" +
+              "<td></td>" +
+              "<td></td>" +
+              "<td></td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>No action</td>" +
+              "<td>50</td>" +
+              "<td>20</td>" +
+              "<td>0</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Obtain better information</td>" +
+              "<td>20</td>" +
+              "<td>30</td>" +
+              "<td>20</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Seek and obtain protection from impacts</td>" +
+              "<td>10</td>" +
+              "<td>10</td>" +
+              "<td>10</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Prevail on providers to reduce risk</td>" +
+              "<td>10</td>" +
+              "<td>10</td>" +
+              "<td>10</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Reduce service use</td>" +
+              "<td>5</td>" +
+              "<td>10</td>" +
+              "<td>20</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Seek alternative services</td>" +
+              "<td>5</td>" +
+              "<td>10</td>" +
+              "<td>30</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Move to another area</td>" +
+              "<td>0</td>" +
+              "<td>10</td>" +
+              "<td>10</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td></td>" +
+              "<td>100</td>" +
+              "<td>100</td>" +
+              "<td>100</td>" +
+              "</tr>" +
+              "</table>" +
+              "</div>" +
+              '<div id="menu2" class="tab-pane fade">' +
+              "<p>Public IP: " +
+              feature.ip +
+              "</p>" +
+              "<p>Wifi: " +
+              '<i class="fas ' +
+              wifistatus +
+              ' fa-circle"></i>' +
+              "</p>" +
+              "<p>Wifi Name (SSID): " +
+              feature.wifiname +
+              "</p>" +
+              "<p>Provider: " +
+              feature.provider +
+              "</p>" +
+              "<p>Frequency: " +
+              feature.freq +
+              "</p>" +
+              "<p>Max Speed: " +
+              feature.speed +
+              "</p>" +
+              "<p>DNS: " +
+              "203.11.301.01" +
+              "</p>" +
+              "<p>Subnet Mask: " +
+              "255.255.192.0" +
+              "</p>" +
+              "<p>Gateway: " +
+              "01.37.291.0" +
+              "</p>" +
+              "</div>" +
+              "</div>"
+          )
+          .addTo(mapBase);
+      });
+      mapBase.on("click", "power-nyc", (e) => {
+        mapBase.getCanvas().style.cursor = "pointer";
+        console.log(e.features[0].properties);
+        feature = e.features[0].properties;
+        if (!e.features.length) {
+          return;
+        }
+
+        var status = feature.status;
+        var wifistatus = feature.wifi;
+        var reward = feature.reward;
+        var eleID = document.getElementById("up");
+        if (eleID != null) {
+          eleID.addEventListener("click", function () {
+            reward += 5;
+            console.log(reward);
+            console.log("click");
+          });
+        }
+
+        var popup = new mapboxgl.Popup({ offset: [0, -15] })
+          .setLngLat(e.features[0].geometry.coordinates)
+          .setHTML(
+            '<ul class="nav nav-tabs">' +
+              '<li class="active"><a data-toggle="tab" href="#home">Info</a></li>' +
+              '<li><a data-toggle="tab" href="#menu1">Human Factor</a></li>' +
+              '<li><a data-toggle="tab" href="#menu2">Cyber</a></li>' +
+              "</ul>" +
+              '<div class="tab-content">' +
+              '<div id="home" class="tab-pane fade in active">' +
+              "<p>" +
+              feature.title +
+              "</p>" +
+              "<p>Status: " +
+              '<i class="fas ' +
+              status +
+              ' fa-circle"></i>' +
+              "<button id='switch' type='button' class='btn btn-secondary'><i class='fas fa-toggle-on'></i></button>" +
+              "</p>" +
+              "<p>Reward: " +
+              reward +
+              "<button type='button' id='up' class='btn btn-info'><i class='fas fa-sort-up'></i></button>" +
+              "<button type='button' id='down' class='btn btn-warning'><i class='fas fa-sort-down'></i></button>" +
+              "</p>" +
+              "<p>Action: " +
+              feature.action +
+              "<button id='popbutton' type='button' class='btn btn-primary'><i class='fas fa-calendar-alt'></i></button>" +
+              "<button id='popbutton' type='button' class='btn btn-success'><i class='fas fa-tools'></i></button>" +
+              "<button id='popbutton' type='button' class='btn btn-danger'><i class='fas fa-hand-paper'></i></button>" +
+              "</p>" +
+              "<p>Location: " +
+              e.features[0].geometry.coordinates[0].toFixed(3) +
+              "° N - " +
+              e.features[0].geometry.coordinates[1].toFixed(3) +
+              "° W " +
+              "</p>" +
+              "<p>OIL Power Generation: " +
+              feature.ridership +
+              "MWh / Year</p>" +
+              "<p><a href=" +
+              feature.url +
+              ">Website</a></p>" +
+              "</div>" +
+              '<div id="menu1" class="tab-pane fade">' +
+              '<table class="table" >' +
+              "<tr>" +
+              "<td></td>" +
+              "<td>Low</td>" +
+              "<td>Med</td>" +
+              "<td>High</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Action*</td>" +
+              "<td></td>" +
+              "<td></td>" +
+              "<td></td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>No action</td>" +
+              "<td>80</td>" +
+              "<td>60</td>" +
+              "<td>0</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Obtain better information</td>" +
+              "<td>10</td>" +
+              "<td>10</td>" +
+              "<td>10</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Seek and obtain protection from impacts</td>" +
+              "<td>30</td>" +
+              "<td>10</td>" +
+              "<td>10</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Prevail on providers to reduce risk</td>" +
+              "<td>20</td>" +
+              "<td>10</td>" +
+              "<td>10</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Reduce service use</td>" +
+              "<td>0</td>" +
+              "<td>0</td>" +
+              "<td>20</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Seek alternative services</td>" +
+              "<td>5</td>" +
+              "<td>10</td>" +
+              "<td>30</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td>Move to another area</td>" +
+              "<td>0</td>" +
+              "<td>0</td>" +
+              "<td>20</td>" +
+              "</tr>" +
+              "<tr>" +
+              "<td></td>" +
+              "<td>100</td>" +
+              "<td>100</td>" +
+              "<td>100</td>" +
+              "</tr>" +
+              "</table>" +
+              "</div>" +
+              '<div id="menu2" class="tab-pane fade">' +
+              "<p>Public IP: " +
+              feature.ip +
+              "</p>" +
+              "<p>Wifi: " +
+              '<i class="fas ' +
+              wifistatus +
+              ' fa-circle"></i>' +
+              "</p>" +
+              "<p>Wifi Name (SSID): " +
+              feature.wifiname +
+              "</p>" +
+              "<p>Provider: " +
+              feature.provider +
+              "</p>" +
+              "<p>Frequency: " +
+              feature.freq +
+              "</p>" +
+              "<p>Max Speed: " +
+              feature.speed +
+              "</p>" +
+              "<p>DNS: " +
+              "203.11.301.01" +
+              "</p>" +
+              "<p>Subnet Mask: " +
+              "255.255.192.0" +
+              "</p>" +
+              "<p>Gateway: " +
+              "01.37.291.0" +
+              "</p>" +
+              "</div>" +
+              "</div>"
+          )
+          .addTo(mapBase);
+      });
+
+      // ********************* ZOOM TO CITIES
+      var cities = {
+        nyc: {
+          center: [-73.976, 40.719],
+          zoom: 12,
+          pitch: 0,
+        },
+        seattle: {
+          center: [-122.335167, 47.608013],
+          zoom: 12,
+          pitch: 0,
+        },
+        sanfrancisco: {
+          center: [-122.431297, 37.773972],
+          zoom: 12,
+          pitch: 0,
+        },
+        wasdc: {
+          center: [-77.03656, 38.897957],
+          zoom: 12,
+          pitch: 0,
+        },
+      };
+
+      var cityNames = Object.keys(cities);
+      var citiesLength = cityNames.length;
+      for (var cc = 0; cc < citiesLength; cc++) {
+        var cityName = cityNames[cc];
+        var cityNameLong = "";
+        if (cc == 0) {
+          cityNameLong = "New York City";
+        } else if (cc == 1) {
+          cityNameLong = "San Francisco";
+        } else if (cc == 2) {
+          cityNameLong = "Seattle";
+        } else if (cc == 3) {
+          cityNameLong = "Washington, DC";
+        }
+        var cityButton = document.createElement("a");
+        cityButton.href = "#";
+        cityButton.className = "city-button";
+        cityButton.innerHTML = cityNameLong;
+        cityButton.setAttribute(
+          "title",
+          "Click to center and zoom in on " + cityNameLong
+        );
+        cityButton.setAttribute("id", cityName);
+
+        var cityButtons = document.getElementById("cities");
+        cityButtons.appendChild(cityButton);
+      } // Close for (cities loop)
+
+      document.getElementById("nyc").addEventListener("click", function () {
+        mapBase.flyTo(cities["nyc"]);
+      });
+
+      document.getElementById("wasdc").addEventListener("click", function () {
+        mapBase.flyTo(cities["wasdc"]);
+      });
+      document
+        .getElementById("sanfrancisco")
+        .addEventListener("click", function () {
+          mapBase.flyTo(cities["sanfrancisco"]);
+        });
+      document.getElementById("seattle").addEventListener("click", function () {
+        mapBase.flyTo(cities["seattle"]);
+      });
+
+      // ********************* COORDINATION OF MOVEMENT AND SCALE BETWEEN MAPS
+      var disable = false;
+      mapBase.on("move", function () {
+        if (!disable) {
+          var center = mapBase.getCenter();
+          var zoom = mapBase.getZoom();
+          disable = true;
+          disable = false;
+        }
+      });
+    </script>
+    <!--script type="text/javascript" src="js/d3.v3.min.js"></script-->
+    <!--script>
+      var lineChart;
+      // Set the dimensions of the canvas / graph
+      var margin = { top: 32, right: 0, bottom: 32, left: 0 },
+        width = 960 + margin.left + margin.right,
+        height = 265 - margin.bottom,
+        heightBox = 265;
+
+      // Parse the date / time
+      var parseDate = d3.time.format("%d-%b-%y").parse;
+      // Set the ranges
+      var x = d3.time.scale().range([0, width - 12]);
+      var y = d3.scale.linear().range([height, 13]);
+
+      // Define the axes
+      var xAxis = d3.svg
+        .axis()
+        .scale(x)
+        .orient("top")
+        .ticks(10)
+        .tickSize(height + 32, 0);
+
+      var yAxis = d3.svg
+        .axis()
+        .scale(y)
+        .orient("left")
+        .ticks(5);
+
+      // Define the line
+      var valueline = d3.svg
+        .line()
+        .x(function(d) {
+          return x(d.date);
+        })
+        .y(function(d) {
+          return y(d.prices);
+        });
+
+      // Adds the svg canvas
+      var svg = d3
+        .select(".graphic-container")
+        .append("svg")
+        .attr("viewBox", "0 0 " + width + " " + heightBox)
+        .attr("preserveAspectRatio", "xMinYMin meet")
+        .classed("content-responsive", true)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+        .classed("line-container", "true");
+
+      // Get the data
+      d3.csv("data/data.csv", function(error, data) {
+        data.forEach(function(d) {
+          d.date = parseDate(d.date);
+          d.prices = d.prices;
+        });
+
+        // Scale the range of the data
+        x.domain(
+          d3.extent(data, function(d) {
+            return d.date;
+          })
+        );
+        y.domain([
+          100,
+          d3.max(data, function(d) {
+            return d.prices;
+          })
+        ]);
+
+        // Add the X Axis
+        svg
+          .append("g")
+          .attr("class", "x axis")
+          .attr("transform", "translate(6," + height + ")")
+          .call(xAxis);
+        svg
+          .append("text")
+          .attr("text-anchor", "end")
+          .attr("x", width)
+          .attr("y", height - 20)
+          .text("Stage");
+        // Add the valueline path
+        lineChart = svg
+          .append("path")
+          .attr("transform", "translate(6,0)")
+          .attr("class", "line")
+          .attr("d", valueline(data));
+      });
+
+      // Graph title
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-title", "true")
+        .append("text")
+        .text("Stage and phase analysis")
+        .attr("transform", "translate(20,30)");
+      // Graph first number
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-month", "true")
+        .append("text")
+        .text("Stage I")
+        .attr("transform", "translate(20,193)");
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-month-number", "true")
+        .append("text")
+        .text("5")
+        .attr("transform", "translate(20,210)");
+      // Graph first number line
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-line", "true")
+        .append("line")
+        .attr("x1", "6")
+        .attr("y1", "188")
+        .attr("x2", "6")
+        .attr("y2", "236");
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-line", "true")
+        .append("line")
+        .attr("x1", "6")
+        .attr("y1", "188")
+        .attr("x2", "18")
+        .attr("y2", "188");
+      // Graph second number
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-month", "true")
+        .append("text")
+        .text("Stage II")
+        .attr("transform", "translate(288,131)");
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-month-number", "true")
+        .append("text")
+        .text("175")
+        .attr("transform", "translate(288,148)");
+      // Graph second number line
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-line", "true")
+        .append("line")
+        .attr("x1", "292")
+        .attr("y1", "100")
+        .attr("x2", "292")
+        .attr("y2", "116");
+      // Graph third number
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-month", "true")
+        .append("text")
+        .text("Stage III")
+        .attr("transform", "translate(436,118)");
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-month-number", "true")
+        .append("text")
+        .text("144")
+        .attr("transform", "translate(436,135)");
+      // Graph third number line
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-line", "true")
+        .append("line")
+        .attr("x1", "442")
+        .attr("y1", "140")
+        .attr("x2", "442")
+        .attr("y2", "154");
+      // Graph fourth number
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-month", "true")
+        .append("text")
+        .text("Stage IV")
+        .attr("transform", "translate(698,190)");
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-month-number", "true")
+        .append("text")
+        .text("153")
+        .attr("transform", "translate(698,207)");
+      // Graph fourth number line
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-line", "true")
+        .append("line")
+        .attr("x1", "702")
+        .attr("y1", "160")
+        .attr("x2", "702")
+        .attr("y2", "176");
+      // Graph fifth number
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-month", "true")
+        .append("text")
+        .text("Stage V")
+        .attr("transform", "translate(872,123)");
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-month-number", "true")
+        .append("text")
+        .text("193")
+        .attr("transform", "translate(899,140)");
+      // Graph fifth number lines
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-line", "true")
+        .append("line")
+        .attr("x1", "954")
+        .attr("y1", "60")
+        .attr("x2", "954")
+        .attr("y2", "118");
+      var svgText = d3
+        .select("svg")
+        .append("g")
+        .classed("graph-line", "true")
+        .append("line")
+        .attr("x1", "944")
+        .attr("y1", "118")
+        .attr("x2", "954")
+        .attr("y2", "118");
+
+      // Draw four points over the line
+      d3.csv("data/points.csv", function(error, datapoints) {
+        datapoints.forEach(function(d) {
+          d.date = parseDate(d.date);
+          d.prices = d.prices;
+        });
+        var circles = svg
+          .append("g")
+          .attr("class", "points")
+          .selectAll("circle")
+          .data(datapoints)
+          .enter()
+          .append("circle")
+          .attr("transform", "translate(6,0)")
+          .attr("cy", function(d) {
+            return y(d.prices);
+          })
+          .attr("cx", function(d) {
+            return x(d.date);
+          })
+          .attr("r", 6);
+      });
+    </script-->
+  </body>
+</html>
